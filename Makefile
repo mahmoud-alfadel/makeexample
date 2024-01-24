@@ -9,7 +9,3 @@ input.o: input.c
 
 main.o: main.c
 	gcc -c main.c
-
-.PHONY: clean
-clean:
-	rm -f random.o input.o main.o program
