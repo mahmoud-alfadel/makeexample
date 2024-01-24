@@ -1,3 +1,4 @@
+//main function calls input and random functions
 #include <stdio.h>
 
 extern int capped_rand(int);
