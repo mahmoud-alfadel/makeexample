@@ -1,3 +1,4 @@
+//user-input handling function
 #include <stdio.h>
 
 int get_cap()
